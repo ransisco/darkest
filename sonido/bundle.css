@@ -1,0 +1,194 @@
+/* shim/base.css */
+:root {
+  --ds-page: #f6f4ef;
+  --ds-ink: #23262e;
+  --ds-ink-2: #5a5f6c;
+  --ds-hairline: #e3e0d8;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--ds-page);
+}
+body {
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    "Helvetica Neue",
+    Arial,
+    sans-serif;
+  color: var(--ds-ink);
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.master-tabs {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: flex;
+  gap: 2px;
+  overflow-x: auto;
+  background: #23262e;
+  padding: 0 8px;
+  scrollbar-width: thin;
+}
+.master-tabs a {
+  color: #c9ccd6;
+  text-decoration: none;
+  white-space: nowrap;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 10px 12px;
+  border-bottom: 3px solid transparent;
+}
+.master-tabs a:hover {
+  color: #ffffff;
+}
+.master-tabs a.active {
+  color: #ffffff;
+  border-bottom-color: #e8b34b;
+}
+.file-card {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 20px 16px 60px;
+}
+.doc-header {
+  margin-bottom: 18px;
+}
+.doc-title {
+  font-size: 24px;
+  line-height: 1.2;
+  margin: 0 0 6px;
+}
+.doc-fact {
+  margin: 0 0 4px;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--ds-ink-2);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.doc-intro {
+  margin: 0;
+  font-size: 15px;
+  color: var(--ds-ink-2);
+}
+.doc-para {
+  font-size: 14px;
+  margin: 10px 0;
+}
+.doc-link {
+  color: #7a5b16;
+  font-weight: 600;
+}
+.group {
+  margin: 18px 0;
+}
+.group-label {
+  font-size: 17px;
+  margin: 0 0 10px;
+  border-bottom: 1px solid var(--ds-hairline);
+  padding-bottom: 6px;
+}
+.callout {
+  border: 1px solid var(--ds-hairline);
+  border-left: 4px solid #e8b34b;
+  background: #fffdf6;
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin: 14px 0;
+}
+.callout-title {
+  display: block;
+  font-size: 13px;
+  margin-bottom: 4px;
+}
+.callout-body {
+  font-size: 14px;
+  color: var(--ds-ink-2);
+}
+.doc-closing {
+  margin-top: 30px;
+  border-top: 1px solid var(--ds-hairline);
+  padding-top: 12px;
+  color: var(--ds-ink-2);
+  font-size: 13px;
+}
+.numbered {
+  padding-left: 22px;
+  font-size: 14px;
+}
+.numbered li {
+  margin: 4px 0;
+}
+
+/* src/sonido/style.css */
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+}
+body {
+  background: var(--ds-page);
+}
+.items {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.item {
+  border: 1px solid var(--ds-hairline);
+  border-radius: 12px;
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.item-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.chip {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 999px;
+  letter-spacing: 0.02em;
+}
+.chip-ok {
+  background: #e3f2e9;
+  color: #1d6b45;
+}
+.chip-review {
+  background: #f7ecd7;
+  color: #8a5a13;
+}
+.chip-pending {
+  background: #ececf1;
+  color: #5a5f6c;
+}
+.chip-decision {
+  background: #f9e2e2;
+  color: #a03030;
+}
+.item-name {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 600;
+}
+.item-detail {
+  margin: 0;
+  font-size: 14px;
+  color: var(--ds-ink-2);
+  line-height: 1.45;
+}
