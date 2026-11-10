@@ -712,3 +712,43 @@ body {
 .dd-skill td {
   overflow-wrap: anywhere;
 }
+.psx-lote1 {
+  border: 1px solid #dedede;
+  border-radius: 12px;
+  padding: 16px;
+  margin: 16px 0;
+}
+.psx-lote1-pieces {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+.psx-lote1-pieces figure {
+  margin: 0;
+  min-width: 0;
+}
+.psx-lote1-native {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  image-rendering: pixelated;
+  display: block;
+  margin: auto;
+}
+.psx-lote1-x4 {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  image-rendering: pixelated;
+  display: block;
+  margin: auto;
+}
+.psx-lote1 figcaption {
+  font-size: 12px;
+  overflow-wrap: anywhere;
+}
+@media (max-width: 600px) {
+  .psx-lote1-pieces {
+    grid-template-columns: 1fr;
+  }
+}

@@ -23837,6 +23837,84 @@
   // src/clases/main.tsx
   var import_client = __toESM(require_client());
 
+  // src/clases/art/psx_ocultista_108_1x.png
+  var psx_ocultista_108_1x_default = "./assets/psx_ocultista_108_1x-H7IPOE7F.png";
+
+  // src/clases/art/psx_ocultista_108_x4.png
+  var psx_ocultista_108_x4_default = "./assets/psx_ocultista_108_x4-UV2KIMLQ.png";
+
+  // src/clases/art/psx_mihita_98_1x.png
+  var psx_mihita_98_1x_default = "./assets/psx_mihita_98_1x-6STU34DS.png";
+
+  // src/clases/art/psx_mihita_98_x4.png
+  var psx_mihita_98_x4_default = "./assets/psx_mihita_98_x4-MDRKBEKV.png";
+
+  // src/clases/art/psx_hombre_armas_102_1x.png
+  var psx_hombre_armas_102_1x_default = "./assets/psx_hombre_armas_102_1x-VDVI5HDR.png";
+
+  // src/clases/art/psx_hombre_armas_102_x4.png
+  var psx_hombre_armas_102_x4_default = "./assets/psx_hombre_armas_102_x4-3WJWUNLA.png";
+
+  // src/clases/art/psx_ballestera_108_1x.png
+  var psx_ballestera_108_1x_default = "./assets/psx_ballestera_108_1x-CJ24QDB4.png";
+
+  // src/clases/art/psx_ballestera_108_x4.png
+  var psx_ballestera_108_x4_default = "./assets/psx_ballestera_108_x4-4OJSZZTV.png";
+
+  // src/clases/art/psx_wartortle_84_1x.png
+  var psx_wartortle_84_1x_default = "./assets/psx_wartortle_84_1x-GL4RVVPV.png";
+
+  // src/clases/art/psx_wartortle_84_x4.png
+  var psx_wartortle_84_x4_default = "./assets/psx_wartortle_84_x4-MOEEM7P5.png";
+
+  // src/clases/art/psx_cruzado_112_1x.png
+  var psx_cruzado_112_1x_default = "./assets/psx_cruzado_112_1x-TQDLTUKE.png";
+
+  // src/clases/art/psx_cruzado_112_x4.png
+  var psx_cruzado_112_x4_default = "./assets/psx_cruzado_112_x4-4MJG2VWM.png";
+
+  // src/clases/art/psx_leproso_116_1x.png
+  var psx_leproso_116_1x_default = "./assets/psx_leproso_116_1x-DDQSYFTO.png";
+
+  // src/clases/art/psx_leproso_116_x4.png
+  var psx_leproso_116_x4_default = "./assets/psx_leproso_116_x4-CX4IHYBP.png";
+
+  // src/clases/art/psx_bandolero_108_1x.png
+  var psx_bandolero_108_1x_default = "./assets/psx_bandolero_108_1x-2OWTIIFX.png";
+
+  // src/clases/art/psx_bandolero_108_x4.png
+  var psx_bandolero_108_x4_default = "./assets/psx_bandolero_108_x4-BXYXJG2X.png";
+
+  // src/clases/art/psx_plague_108_1x.png
+  var psx_plague_108_1x_default = "./assets/psx_plague_108_1x-VJXSLUCR.png";
+
+  // src/clases/art/psx_plague_108_x4.png
+  var psx_plague_108_x4_default = "./assets/psx_plague_108_x4-EX4NGF2O.png";
+
+  // src/clases/art/psx_rompeescudos_112_1x.png
+  var psx_rompeescudos_112_1x_default = "./assets/psx_rompeescudos_112_1x-CRLVOPPU.png";
+
+  // src/clases/art/psx_rompeescudos_112_x4.png
+  var psx_rompeescudos_112_x4_default = "./assets/psx_rompeescudos_112_x4-S7UQSS2L.png";
+
+  // src/clases/art/psx_lopera_108_1x.png
+  var psx_lopera_108_1x_default = "./assets/psx_lopera_108_1x-5SE6QIWN.png";
+
+  // src/clases/art/psx_lopera_108_x4.png
+  var psx_lopera_108_x4_default = "./assets/psx_lopera_108_x4-KDVCCQEU.png";
+
+  // src/clases/art/psx_heihachi_108_1x.png
+  var psx_heihachi_108_1x_default = "./assets/psx_heihachi_108_1x-N4FFWAZX.png";
+
+  // src/clases/art/psx_heihachi_108_x4.png
+  var psx_heihachi_108_x4_default = "./assets/psx_heihachi_108_x4-22LBW3U2.png";
+
+  // src/clases/art/psx_mokujin_105_1x.png
+  var psx_mokujin_105_1x_default = "./assets/psx_mokujin_105_1x-LQ6KTZ26.png";
+
+  // src/clases/art/psx_mokujin_105_x4.png
+  var psx_mokujin_105_x4_default = "./assets/psx_mokujin_105_x4-66JWISO3.png";
+
   // src/clases/art/concha_artwork.png
   var concha_artwork_default = "./assets/concha_artwork-GVPP2UUW.png";
 
@@ -24210,6 +24288,20 @@
         /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("span", { id: "pjgrp-top" }),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { className: "zone-title", id: "pjgrp-clases", children: "CLASES" }),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-ocultista", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("section", { className: "psx-lote1", "aria-label": "Adaptacion PSX lote 1", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { children: "Adaptacion PSX - lote 1 v3" }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'Incorporada por Juan, 10-nov16:42: "Excelente adaptaci\xF3n, m\xE1ndalos al maestro." (Slack ts1794328944.085779). Archivos v3 entregados, sin sustituir por v4 posterior. Conserva el artwork y las piezas anteriores como referencia de origen; esta incorporacion no acredita animacion, textura cargada ni integracion en motor.' }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "psx-lote1-pieces", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-native", src: psx_ocultista_108_1x_default, alt: "ocultista PSX lote 1 v3, nativo" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco PSX 1:1, lienzo 120x120; figura visible 108px de alto." })
+              ] }),
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-x4", src: psx_ocultista_108_x4_default, alt: "ocultista PSX lote 1 v3 ampliado x4" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Ampliacion x4 NEAREST del mismo archivo." })
+              ] })
+            ] })
+          ] }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card compact", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { children: "Ocultista" }),
             /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "item-chips", children: [
@@ -24254,6 +24346,20 @@
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Nota historica del arte anterior (sustituido por las piezas M1 del 8-nov 11:41): Arte sustituido por las cuatro piezas aprobadas (J, 8-nov 06:30): artwork R23, sprite R23 (28x56 px nativos provisionales), retrato R24 derivado del sprite y calco de dialogo 48x48 (ventana 62 px aprobada 8-nov)." })
         ] }, "pj-ocultista"),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-mihita", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("section", { className: "psx-lote1", "aria-label": "Adaptacion PSX lote 1", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { children: "Adaptacion PSX - lote 1 v3" }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'Incorporada por Juan, 10-nov16:42: "Excelente adaptaci\xF3n, m\xE1ndalos al maestro." (Slack ts1794328944.085779). Archivos v3 entregados, sin sustituir por v4 posterior. Conserva el artwork y las piezas anteriores como referencia de origen; esta incorporacion no acredita animacion, textura cargada ni integracion en motor.' }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "psx-lote1-pieces", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-native", src: psx_mihita_98_1x_default, alt: "mihita PSX lote 1 v3, nativo" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco PSX 1:1, lienzo 112x112; figura visible 98px de alto." })
+              ] }),
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-x4", src: psx_mihita_98_x4_default, alt: "mihita PSX lote 1 v3 ampliado x4" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Ampliacion x4 NEAREST del mismo archivo." })
+              ] })
+            ] })
+          ] }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card compact", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { children: "Mihita" }),
             /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "item-chips", children: [
@@ -24298,6 +24404,20 @@
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Nota: Arte sustituido por las cuatro piezas aprobadas (J, 8-nov 06:40): artwork R26, sprite R26 (34x56 px nativos provisionales), retrato R26 derivado del sprite y calco de dialogo 48x48 (ventana 62 px aprobada 8-nov)." })
         ] }, "pj-mihita"),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-hombre-de-armas", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("section", { className: "psx-lote1", "aria-label": "Adaptacion PSX lote 1", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { children: "Adaptacion PSX - lote 1 v3" }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'Incorporada por Juan, 10-nov16:42: "Excelente adaptaci\xF3n, m\xE1ndalos al maestro." (Slack ts1794328944.085779). Archivos v3 entregados, sin sustituir por v4 posterior. Conserva el artwork y las piezas anteriores como referencia de origen; esta incorporacion no acredita animacion, textura cargada ni integracion en motor.' }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "psx-lote1-pieces", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-native", src: psx_hombre_armas_102_1x_default, alt: "hombre_armas PSX lote 1 v3, nativo" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco PSX 1:1, lienzo 112x112; figura visible 102px de alto." })
+              ] }),
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-x4", src: psx_hombre_armas_102_x4_default, alt: "hombre_armas PSX lote 1 v3 ampliado x4" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Ampliacion x4 NEAREST del mismo archivo." })
+              ] })
+            ] })
+          ] }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card compact", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { children: "Hombre de armas" }),
             /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "item-chips", children: [
@@ -24386,6 +24506,20 @@
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Nota historica del arte anterior (sustituido por las piezas M1 del 8-nov 11:40): Arte sustituido por las cuatro piezas aprobadas (J, 8-nov 06:49): artwork y retrato R27 (sin cambios desde R27b), sprite R27c (29x56 px nativos provisionales, cuello corregido) y calco de dialogo 48x48 R27c PROPUESTO (ventana 62 px aprobada 8-nov)." })
         ] }, "pj-vestal"),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-ballestera", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("section", { className: "psx-lote1", "aria-label": "Adaptacion PSX lote 1", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { children: "Adaptacion PSX - lote 1 v3" }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'Incorporada por Juan, 10-nov16:42: "Excelente adaptaci\xF3n, m\xE1ndalos al maestro." (Slack ts1794328944.085779). Archivos v3 entregados, sin sustituir por v4 posterior. Conserva el artwork y las piezas anteriores como referencia de origen; esta incorporacion no acredita animacion, textura cargada ni integracion en motor.' }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "psx-lote1-pieces", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-native", src: psx_ballestera_108_1x_default, alt: "ballestera PSX lote 1 v3, nativo" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco PSX 1:1, lienzo 120x120; figura visible 108px de alto." })
+              ] }),
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-x4", src: psx_ballestera_108_x4_default, alt: "ballestera PSX lote 1 v3 ampliado x4" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Ampliacion x4 NEAREST del mismo archivo." })
+              ] })
+            ] })
+          ] }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card compact", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { children: "Ballestera" }),
             /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "item-chips", children: [
@@ -24430,6 +24564,20 @@
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Nota historica del arte anterior (sustituido por las piezas M1 del 8-nov 11:44): Arte sustituido por las cuatro piezas aprobadas (J, 8-nov 06:47): artwork R27b, sprite R27b (38x56 px nativos provisionales), retrato R27b derivado del sprite y calco de dialogo 48x48 (ventana 62 px aprobada 8-nov)." })
         ] }, "pj-ballestera"),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-wartortle-morty", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("section", { className: "psx-lote1", "aria-label": "Adaptacion PSX lote 1", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { children: "Adaptacion PSX - lote 1 v3" }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'Incorporada por Juan, 10-nov16:42: "Excelente adaptaci\xF3n, m\xE1ndalos al maestro." (Slack ts1794328944.085779). Archivos v3 entregados, sin sustituir por v4 posterior. Conserva el artwork y las piezas anteriores como referencia de origen; esta incorporacion no acredita animacion, textura cargada ni integracion en motor.' }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "psx-lote1-pieces", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-native", src: psx_wartortle_84_1x_default, alt: "wartortle PSX lote 1 v3, nativo" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco PSX 1:1, lienzo 96x96; figura visible 83px de alto." })
+              ] }),
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-x4", src: psx_wartortle_84_x4_default, alt: "wartortle PSX lote 1 v3 ampliado x4" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Ampliacion x4 NEAREST del mismo archivo." })
+              ] })
+            ] })
+          ] }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card compact", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { children: "Wartortle Morty" }),
             /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "item-chips", children: [
@@ -24473,6 +24621,20 @@
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Historico: 22 poses por clase sin camp, confirmado Juan 18:50; escenario historico clases330 (no cuota vigente). Cobertura final por habilidad por inventariar." })
         ] }, "pj-wartortle-morty"),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-cruzado", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("section", { className: "psx-lote1", "aria-label": "Adaptacion PSX lote 1", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { children: "Adaptacion PSX - lote 1 v3" }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'Incorporada por Juan, 10-nov16:42: "Excelente adaptaci\xF3n, m\xE1ndalos al maestro." (Slack ts1794328944.085779). Archivos v3 entregados, sin sustituir por v4 posterior. Conserva el artwork y las piezas anteriores como referencia de origen; esta incorporacion no acredita animacion, textura cargada ni integracion en motor.' }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "psx-lote1-pieces", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-native", src: psx_cruzado_112_1x_default, alt: "cruzado PSX lote 1 v3, nativo" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco PSX 1:1, lienzo 120x120; figura visible 112px de alto." })
+              ] }),
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-x4", src: psx_cruzado_112_x4_default, alt: "cruzado PSX lote 1 v3 ampliado x4" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Ampliacion x4 NEAREST del mismo archivo." })
+              ] })
+            ] })
+          ] }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card compact", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { children: "Cruzado" }),
             /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "item-chips", children: [
@@ -24517,6 +24679,20 @@
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Historico: 22 poses por clase sin camp, confirmado Juan 18:50; escenario historico clases330 (no cuota vigente). Cobertura final por habilidad por inventariar." })
         ] }, "pj-cruzado"),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-leproso", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("section", { className: "psx-lote1", "aria-label": "Adaptacion PSX lote 1", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { children: "Adaptacion PSX - lote 1 v3" }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'Incorporada por Juan, 10-nov16:42: "Excelente adaptaci\xF3n, m\xE1ndalos al maestro." (Slack ts1794328944.085779). Archivos v3 entregados, sin sustituir por v4 posterior. Conserva el artwork y las piezas anteriores como referencia de origen; esta incorporacion no acredita animacion, textura cargada ni integracion en motor.' }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "psx-lote1-pieces", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-native", src: psx_leproso_116_1x_default, alt: "leproso PSX lote 1 v3, nativo" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco PSX 1:1, lienzo 128x128; figura visible 116px de alto." })
+              ] }),
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-x4", src: psx_leproso_116_x4_default, alt: "leproso PSX lote 1 v3 ampliado x4" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Ampliacion x4 NEAREST del mismo archivo." })
+              ] })
+            ] })
+          ] }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card compact", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { children: "Leproso" }),
             /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "item-chips", children: [
@@ -24561,6 +24737,20 @@
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Historico: 22 poses por clase sin camp, confirmado Juan 18:50; escenario historico clases330 (no cuota vigente). Cobertura final por habilidad por inventariar." })
         ] }, "pj-leproso"),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-bandolero", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("section", { className: "psx-lote1", "aria-label": "Adaptacion PSX lote 1", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { children: "Adaptacion PSX - lote 1 v3" }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'Incorporada por Juan, 10-nov16:42: "Excelente adaptaci\xF3n, m\xE1ndalos al maestro." (Slack ts1794328944.085779). Archivos v3 entregados, sin sustituir por v4 posterior. Conserva el artwork y las piezas anteriores como referencia de origen; esta incorporacion no acredita animacion, textura cargada ni integracion en motor.' }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "psx-lote1-pieces", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-native", src: psx_bandolero_108_1x_default, alt: "bandolero PSX lote 1 v3, nativo" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco PSX 1:1, lienzo 120x120; figura visible 108px de alto." })
+              ] }),
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-x4", src: psx_bandolero_108_x4_default, alt: "bandolero PSX lote 1 v3 ampliado x4" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Ampliacion x4 NEAREST del mismo archivo." })
+              ] })
+            ] })
+          ] }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card compact", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { children: "Bandolero" }),
             /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "item-chips", children: [
@@ -24648,6 +24838,20 @@
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Nota historica del arte anterior (sustituido por las piezas M1 del 8-nov 11:21): Juan 8-nov 00:20: sustituye la clase anterior por Hellion (Darkest Dungeon); el arte antiguo no se hereda como aprobado. Arte nuevo incorporado (J, 8-nov 06:30): artwork R21, sprite R21 (39x62 px nativos provisionales), retrato R22 derivado del sprite (hombros para arriba, mismo gesto y direccion, J 8-nov 00:22) y calco de dialogo 48x48 (ventana 62 px aprobada 8-nov)." })
         ] }, "pj-hellion"),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-peste", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("section", { className: "psx-lote1", "aria-label": "Adaptacion PSX lote 1", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { children: "Adaptacion PSX - lote 1 v3" }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'Incorporada por Juan, 10-nov16:42: "Excelente adaptaci\xF3n, m\xE1ndalos al maestro." (Slack ts1794328944.085779). Archivos v3 entregados, sin sustituir por v4 posterior. Conserva el artwork y las piezas anteriores como referencia de origen; esta incorporacion no acredita animacion, textura cargada ni integracion en motor.' }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "psx-lote1-pieces", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-native", src: psx_plague_108_1x_default, alt: "plague PSX lote 1 v3, nativo" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco PSX 1:1, lienzo 120x120; figura visible 108px de alto." })
+              ] }),
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-x4", src: psx_plague_108_x4_default, alt: "plague PSX lote 1 v3 ampliado x4" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Ampliacion x4 NEAREST del mismo archivo." })
+              ] })
+            ] })
+          ] }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card compact", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { children: "Peste" }),
             /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "item-chips", children: [
@@ -24691,6 +24895,20 @@
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Historico: 22 poses por clase sin camp, confirmado Juan 18:50; escenario historico clases330 (no cuota vigente). Cobertura final por habilidad por inventariar." })
         ] }, "pj-peste"),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-rompeescudos-morty", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("section", { className: "psx-lote1", "aria-label": "Adaptacion PSX lote 1", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { children: "Adaptacion PSX - lote 1 v3" }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'Incorporada por Juan, 10-nov16:42: "Excelente adaptaci\xF3n, m\xE1ndalos al maestro." (Slack ts1794328944.085779). Archivos v3 entregados, sin sustituir por v4 posterior. Conserva el artwork y las piezas anteriores como referencia de origen; esta incorporacion no acredita animacion, textura cargada ni integracion en motor.' }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "psx-lote1-pieces", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-native", src: psx_rompeescudos_112_1x_default, alt: "rompeescudos PSX lote 1 v3, nativo" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco PSX 1:1, lienzo 120x120; figura visible 112px de alto." })
+              ] }),
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-x4", src: psx_rompeescudos_112_x4_default, alt: "rompeescudos PSX lote 1 v3 ampliado x4" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Ampliacion x4 NEAREST del mismo archivo." })
+              ] })
+            ] })
+          ] }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card compact", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { children: "Rompeescudos" }),
             /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "item-chips", children: [
@@ -24730,6 +24948,20 @@
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Medida real de archivos de retrato,9-nov: Retrato Rompeescudos (artwork): 1254x1254px; Calco del retrato Rompeescudos 64x64: 64x64px. No son medidas de la ampliacion." })
         ] }, "pj-rompeescudos-morty"),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-lopera", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("section", { className: "psx-lote1", "aria-label": "Adaptacion PSX lote 1", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { children: "Adaptacion PSX - lote 1 v3" }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'Incorporada por Juan, 10-nov16:42: "Excelente adaptaci\xF3n, m\xE1ndalos al maestro." (Slack ts1794328944.085779). Archivos v3 entregados, sin sustituir por v4 posterior. Conserva el artwork y las piezas anteriores como referencia de origen; esta incorporacion no acredita animacion, textura cargada ni integracion en motor.' }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "psx-lote1-pieces", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-native", src: psx_lopera_108_1x_default, alt: "lopera PSX lote 1 v3, nativo" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco PSX 1:1, lienzo 120x120; figura visible 108px de alto." })
+              ] }),
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-x4", src: psx_lopera_108_x4_default, alt: "lopera PSX lote 1 v3 ampliado x4" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Ampliacion x4 NEAREST del mismo archivo." })
+              ] })
+            ] })
+          ] }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card compact", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { children: "Lopera" }),
             /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "item-chips", children: [
@@ -24774,6 +25006,20 @@
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Nota: Retrato y calco de dialogo aprobados (J, 8-nov 06:49): retrato R28 derivado del sprite (mismo gesto serio y direccion, Hugo al lado) y calco 48x48 (ventana 62 px aprobada 8-nov). Artwork y sprite sin cambios." })
         ] }, "pj-lopera"),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-heihachi", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("section", { className: "psx-lote1", "aria-label": "Adaptacion PSX lote 1", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { children: "Adaptacion PSX - lote 1 v3" }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'Incorporada por Juan, 10-nov16:42: "Excelente adaptaci\xF3n, m\xE1ndalos al maestro." (Slack ts1794328944.085779). Archivos v3 entregados, sin sustituir por v4 posterior. Conserva el artwork y las piezas anteriores como referencia de origen; esta incorporacion no acredita animacion, textura cargada ni integracion en motor.' }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "psx-lote1-pieces", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-native", src: psx_heihachi_108_1x_default, alt: "heihachi PSX lote 1 v3, nativo" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco PSX 1:1, lienzo 120x120; figura visible 107px de alto." })
+              ] }),
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-x4", src: psx_heihachi_108_x4_default, alt: "heihachi PSX lote 1 v3 ampliado x4" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Ampliacion x4 NEAREST del mismo archivo." })
+              ] })
+            ] })
+          ] }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card compact", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { children: "Heihachi" }),
             /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "item-chips", children: [
@@ -24818,6 +25064,20 @@
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Nota historica (sustituido por las piezas en estilo M1, 8-nov 11:21). Arte anterior por las cuatro piezas aprobadas (J, 8-nov 06:30): artwork R19, sprite R19 (44x54 px nativos provisionales), retrato R20 derivado del sprite y calco de dialogo 48x48 (ventana 62 px aprobada 8-nov)." })
         ] }, "pj-heihachi"),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-mokujin", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("section", { className: "psx-lote1", "aria-label": "Adaptacion PSX lote 1", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { children: "Adaptacion PSX - lote 1 v3" }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'Incorporada por Juan, 10-nov16:42: "Excelente adaptaci\xF3n, m\xE1ndalos al maestro." (Slack ts1794328944.085779). Archivos v3 entregados, sin sustituir por v4 posterior. Conserva el artwork y las piezas anteriores como referencia de origen; esta incorporacion no acredita animacion, textura cargada ni integracion en motor.' }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "psx-lote1-pieces", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-native", src: psx_mokujin_105_1x_default, alt: "mokujin PSX lote 1 v3, nativo" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco PSX 1:1, lienzo 120x120; figura visible 104px de alto." })
+              ] }),
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "psx-lote1-x4", src: psx_mokujin_105_x4_default, alt: "mokujin PSX lote 1 v3 ampliado x4" }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Ampliacion x4 NEAREST del mismo archivo." })
+              ] })
+            ] })
+          ] }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card compact", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { children: "Mokujin" }),
             /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "item-chips", children: [

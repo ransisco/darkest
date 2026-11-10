@@ -23945,33 +23945,6 @@
   // src/enemigos/art/calco_entidad_v7_x4.png
   var calco_entidad_v7_x4_default = "./assets/calco_entidad_v7_x4-Z3L2FXNG.png";
 
-  // src/enemigos/art/v6_reportera_art.png
-  var v6_reportera_art_default = "./assets/v6_reportera_art-O7FHFPU3.png";
-
-  // src/enemigos/art/calco_reportera_v6_1x.png
-  var calco_reportera_v6_1x_default = "./assets/calco_reportera_v6_1x-HCZFEFFR.png";
-
-  // src/enemigos/art/calco_reportera_v6_x4.png
-  var calco_reportera_v6_x4_default = "./assets/calco_reportera_v6_x4-WWV2U435.png";
-
-  // src/enemigos/art/v6_reportero_art.png
-  var v6_reportero_art_default = "./assets/v6_reportero_art-Y6Y6XKIS.png";
-
-  // src/enemigos/art/calco_reportero_v6_1x.png
-  var calco_reportero_v6_1x_default = "./assets/calco_reportero_v6_1x-DN63DZIJ.png";
-
-  // src/enemigos/art/calco_reportero_v6_x4.png
-  var calco_reportero_v6_x4_default = "./assets/calco_reportero_v6_x4-KVNQBLE4.png";
-
-  // src/enemigos/art/v6_camara_art.png
-  var v6_camara_art_default = "./assets/v6_camara_art-EDMR7MTN.png";
-
-  // src/enemigos/art/calco_camara_v6_1x.png
-  var calco_camara_v6_1x_default = "./assets/calco_camara_v6_1x-HYI7I3Q3.png";
-
-  // src/enemigos/art/calco_camara_v6_x4.png
-  var calco_camara_v6_x4_default = "./assets/calco_camara_v6_x4-BLMQV2US.png";
-
   // src/enemigos/art/v5_juanymedio_art.png
   var v5_juanymedio_art_default = "./assets/v5_juanymedio_art-AHO5IPVF.png";
 
@@ -24628,7 +24601,7 @@
       if (location.hash) setTimeout(() => document.getElementById(location.hash.slice(1))?.scrollIntoView(), 400);
     }, []);
     return /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)(FileCard, { children: [
-      /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Header, { title: "Darkest Morty: enemigos, bosses y guests", fact: "128 personajes; 125 fichas", intro: "Fichas completas y arte, con habilidades DD1 por dificultad y origen de cada enemigo." }),
+      /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Header, { title: "Darkest Morty: enemigos, bosses y guests", fact: "125 personajes; 122 fichas", intro: "Fichas completas y arte, con habilidades DD1 por dificultad y origen de cada enemigo." }),
       /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)(Paragraph, { children: [
         /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(TextLink, { href: "https://files.instinct.com/61ypfkiox087-darkest-morty-reglas-y-zonas", children: "Reglas y zonas" }),
         " | ",
@@ -25209,7 +25182,7 @@
         /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { className: "zone-title", id: "pjgrp-minibosses", children: "MINIBOSSES" }),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-modesto-barragan", children: [
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { className: "char-title", children: "Modesto Barragan" }),
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Miniboss. Zona: Canal Sur. Horda previa con Reportera, Reportero y Camara; cantidad y oleadas pendientes. Piezas originales del set v5 incorporadas por orden de Juan, 10-nov 12:17. Rol actualizado en esa orden. Cuatro piezas G3, sin regenerar ni retocar los archivos. Sin V2." }),
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Miniboss. Zona: Canal Sur. Piezas originales del set v5 incorporadas por orden de Juan, 10-nov 12:17. Rol actualizado en esa orden. Cuatro piezas G3, sin regenerar ni retocar los archivos. Sin V2." }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "canal-pieces", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
               /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "canal-art", src: v5_modesto_art_default, alt: "Artwork del personaje: Modesto Barragan", loading: "lazy" }),
@@ -26132,63 +26105,6 @@
           document.getElementById("pjgrp-top")?.scrollIntoView({ block: "start" });
         }, children: "\u2191 Volver al indice" }) }),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { className: "zone-title", id: "pjgrp-normales", children: "NORMALES" }),
-        /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-canal-sur-reportera", children: [
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { className: "char-title", children: "Reportera - Canal Sur" }),
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Enemigo normal. Zona: Canal Sur. Parte de la horda previa a Modesto Barragan (miniboss), por orden de Juan, 10-nov 12:20. Piezas 1 y 2 de G3: artwork y calco del set v6, sin retrato." }),
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "canal-pieces", children: [
-            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "canal-art", src: v6_reportera_art_default, alt: "Artwork del personaje: Reportera", loading: "lazy" }),
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Artwork del personaje" })
-            ] }),
-            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "canal-native", src: calco_reportera_v6_1x_default, alt: "Calco GBA 64x64, 1:1: Reportera", loading: "lazy" }),
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco GBA 64x64, 1:1" })
-            ] }),
-            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "canal-x4", src: calco_reportera_v6_x4_default, alt: "Calco GBA ampliado x4: Reportera", loading: "lazy" }),
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco GBA ampliado x4" })
-            ] })
-          ] }),
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Cantidad, oleadas, stats y habilidades de la horda: sin definir en esta incorporacion. Arte publicado, no integracion en ROM ni animacion." })
-        ] }),
-        /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-canal-sur-reportero", children: [
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { className: "char-title", children: "Reportero - Canal Sur" }),
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Enemigo normal. Zona: Canal Sur. Parte de la horda previa a Modesto Barragan (miniboss), por orden de Juan, 10-nov 12:20. Piezas 1 y 2 de G3: artwork y calco del set v6, sin retrato." }),
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "canal-pieces", children: [
-            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "canal-art", src: v6_reportero_art_default, alt: "Artwork del personaje: Reportero", loading: "lazy" }),
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Artwork del personaje" })
-            ] }),
-            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "canal-native", src: calco_reportero_v6_1x_default, alt: "Calco GBA 64x64, 1:1: Reportero", loading: "lazy" }),
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco GBA 64x64, 1:1" })
-            ] }),
-            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "canal-x4", src: calco_reportero_v6_x4_default, alt: "Calco GBA ampliado x4: Reportero", loading: "lazy" }),
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco GBA ampliado x4" })
-            ] })
-          ] }),
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Cantidad, oleadas, stats y habilidades de la horda: sin definir en esta incorporacion. Arte publicado, no integracion en ROM ni animacion." })
-        ] }),
-        /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-canal-sur-camara", children: [
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { className: "char-title", children: "Camara - Canal Sur" }),
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Enemigo normal. Zona: Canal Sur. Parte de la horda previa a Modesto Barragan (miniboss), por orden de Juan, 10-nov 12:20. Piezas 1 y 2 de G3: artwork y calco del set v6, sin retrato." }),
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "canal-pieces", children: [
-            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "canal-art", src: v6_camara_art_default, alt: "Artwork del personaje: Camara", loading: "lazy" }),
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Artwork del personaje" })
-            ] }),
-            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "canal-native", src: calco_camara_v6_1x_default, alt: "Calco GBA 64x64, 1:1: Camara", loading: "lazy" }),
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco GBA 64x64, 1:1" })
-            ] }),
-            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { children: [
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { className: "canal-x4", src: calco_camara_v6_x4_default, alt: "Calco GBA ampliado x4: Camara", loading: "lazy" }),
-              /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "Calco GBA ampliado x4" })
-            ] })
-          ] }),
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Cantidad, oleadas, stats y habilidades de la horda: sin definir en esta incorporacion. Arte publicado, no integracion en ROM ni animacion." })
-        ] }),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(Paragraph, { children: "Regla de Juan9-nov09:30: los enemigos nuevos de proyecto (Heaven/Smiles, inspirados en Mario y similares) NO tienen habilidades y siguen asi hasta disenar el roster final. Solo se rellenan aqui los originalesDD1 con equivalencia confirmada. No se inventan kits por analogia; las mecanicas previas documentadas no equivalen a un repertorio nuevo aprobado." }),
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-bone-soldier", children: [
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { className: "char-title", children: "Bone Soldier (n.01)" }),
