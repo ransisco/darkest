@@ -129,6 +129,13 @@ img {
 .numbered li {
   margin: 4px 0;
 }
+.file-card p,
+.file-card li,
+.file-card figcaption,
+.file-card h3,
+.file-card h4 {
+  overflow-wrap: anywhere;
+}
 
 /* src/reglas/style.css */
 html,

@@ -23837,6 +23837,9 @@
   // src/clases/main.tsx
   var import_client = __toESM(require_client());
 
+  // src/clases/art/concha_psx_guardia_f1_v3_0cd370f6.png
+  var concha_psx_guardia_f1_v3_0cd370f6_default = "./assets/concha_psx_guardia_f1_v3_0cd370f6-6YCAIOKC.png";
+
   // src/clases/art/psx_ocultista_108_1x.png
   var psx_ocultista_108_1x_default = "./assets/psx_ocultista_108_1x-H7IPOE7F.png";
 
@@ -24245,7 +24248,7 @@
       /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)(Group, { label: "Clases", heading: true, children: [
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "char-card ficha", id: "pj-concha", children: [
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h3", { children: "Morty Concha" }),
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'Incorporada por Juan, 10-nov 08:46: "Concha para el maestro." Artwork paso 1 aprobado: afable, ambas manos en el sofa; patas quietas pero preparadas para moverse cuando toque. Al caminar se desplaza el sofa, no ella. Alto confirmado: 50 px para el conjunto entero Concha + sofa.' }),
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'Incorporada por Juan, 10-nov 08:46: "Concha para el maestro." Artwork paso 1 aprobado: afable, ambas manos en el sofa; patas quietas pero preparadas para moverse cuando toque. Al caminar se desplaza el sofa, no ella. GBA historico: alto confirmado de 50 px para el conjunto entero Concha + sofa; no sustituye la guardia PSX v3 de 86 px incorporada debajo.' }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "imgrow", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { className: "imgfig", children: [
               /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { src: concha_artwork_default, alt: "Artwork aprobado de Morty Concha con sofa y patas quietas" }),
@@ -24261,6 +24264,22 @@
             ] })
           ] }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: "Derivados del mismo artwork: calco con 15 colores visibles + indice 0 transparente; retrato de 16 colores. Reduccion con perdida de detalle, no pixel art manual completo. Sin prueba de integracion en ROM. La orden de incorporar no se registra como aprobacion grafica independiente de estos derivados." }),
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("section", { id: "concha-psx-guardia-v3", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { children: "PSX - guardia f1 v3" }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: 'PSX: guardia f1 v3 aprobada por Juan, 11-nov 05:49 GMT: "excelente, Concha pal maestro" (1794376143.301969). Figura Concha + sofa de 86 px; lienzo 76x94, bbox alfa (4,4)-(72,90). Esta version es la mostrada y aceptada; no es kit completo ni acredita animacion, TIM o integracion PSX.' }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "imgrow", style: { flexWrap: "wrap", maxWidth: "100%" }, children: [
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { className: "imgfig", style: { width: 76, flex: "0 0 auto" }, children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { src: concha_psx_guardia_f1_v3_0cd370f6_default, alt: "Concha PSX v3, 1x", width: 76, height: 94, style: { imageRendering: "pixelated", width: 76, height: 94, maxWidth: "none", maxHeight: "none", objectFit: "contain" } }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "1x: archivo original 76x94, figura 86 px." })
+              ] }),
+              /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("figure", { className: "imgfig", style: { width: 304, maxWidth: "100%", flex: "0 1 auto" }, children: [
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("div", { style: { overflowX: "auto", maxWidth: "100%" }, children: /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("img", { src: concha_psx_guardia_f1_v3_0cd370f6_default, alt: "Misma Concha v3 x4 nearest", width: 304, height: 376, style: { imageRendering: "pixelated", width: 304, height: 376, maxWidth: "none", maxHeight: "none", objectFit: "contain" } }) }),
+                /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("figcaption", { children: "x4 nearest para lectura; misma imagen. En movil estrecho, desliza la imagen horizontalmente." })
+              ] })
+            ] }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: "Revision visual independiente previa: cabeza mas estrecha y dedos fusionados respecto al artwork. Juan acepta esta version pese a esas observaciones. No se registra como PASS de fidelidad del revisor. GBA 46x50/50 px y versiones PSX 88,86v1 y86v2 quedan historicas, sin sobrescribir archivos." }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: "SHA256 0cd370f67b57b0b35ee84feb77d123338a7c2e976399f76138459f7e279be794" })
+          ] }),
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { id: "concha-registro", children: [
             /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("h4", { children: "Decidido por Juan: concepto y cuadro" }),
             /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("p", { children: '"Un h\xE9roe que di\xE1logue con los enemigos y consiga que huyan; Morty Concha, una vieja." (10-nov 06:18). "No quiero que sea una skill, quiero que Morty Concha vaya directamente a un cuadro de di\xE1logo con opciones cuando sea su turno." (1794291818.465089). Caja de texto con opciones y cursor. Tres resultados al hablar al enemigo: huir, ayudar en combate atacando a sus companeros, o dar un regalo y marcharse ("huir o que te ayude en combate o te un regalo y se vaya",1794291776.509639). Opciones del cuadro: Vete / Ayudanos / Dame algo. Puede dirigirse a todos los enemigos, uno concreto o todos los aliados; tambien ayudar al equipo, siempre en cuadro, no menu normal. Puede usar objetos desde el cuadro. El aliado convencido dura ese combate.' }),
